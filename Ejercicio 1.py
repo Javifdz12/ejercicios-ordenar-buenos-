@@ -27,3 +27,4 @@ def ordenar_lista(lista):
 lista_ordenada = ordenar_lista(lista)
 
 print(f'Que de manera ordenada quedaría de la siguiente forma:\n{lista_ordenada}')
+print("hola")
