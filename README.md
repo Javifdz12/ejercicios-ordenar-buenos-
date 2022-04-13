@@ -1,4 +1,7 @@
 # ejercicios-ordenar-buenos-
+
+link:https://github.com/Javifdz12/ejercicios-ordenar-buenos-.git
+
 1. Ordenación por inserción dicotómica
 Sea t una tabla de una sola línea (vector) de elementos de un tipo T que derivan de COMPARABLE, y que hay que ordenar en orden creciente. Cada elemento está insertado en su lugar dentro del resultado que se ha de obtener buscando su posición de inserción mediante el algoritmo dicotomía estudiado en el capítulo «Iteración».
 
